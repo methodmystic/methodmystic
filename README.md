@@ -14,7 +14,7 @@
 
 I'm a dedicated and curious developer working towards becoming a **Java Full Stack Developer**. I enjoy understanding concepts deeply, especially in **Java**, **Data Structures**, and **Backend Development**.
 
-- 🔥 Currently learning **Advanced Java** (Servlets, JSP, Dynamic Web Pages)
+- 🔥 Currently learning **Advanced Java** & **Spring Core**, **Spring Boot**
 - 🌍 Curious about how **technology shapes global systems** — from internet infrastructure powering economies to how software decisions influence geopolitics
 - 💼 Building practical projects to apply my knowledge
 
@@ -43,13 +43,6 @@ I'm a dedicated and curious developer working towards becoming a **Java Full Sta
 </p>
 
 ---
-
-## 📚 Learning Journey
-
-### 🔥 Currently Learning
-- Spring Core
-- Spring Boot
-- Hibernate
 
 ---
 
