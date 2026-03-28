@@ -32,11 +32,6 @@ I'm a dedicated and curious developer working towards becoming a **Java Full Sta
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
-- Java (Core + Advanced), JDBC, Servlets & JSP
-- C++
-- HTML5, CSS3, JavaScript
-- SQL
-
 ### ⚙️ Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
@@ -46,12 +41,6 @@ I'm a dedicated and curious developer working towards becoming a **Java Full Sta
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
 </p>
-
-- Maven
-- Git & GitHub
-- IntelliJ IDEA
-- VS Code
-- Eclipse
 
 ---
 
