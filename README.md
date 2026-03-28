@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing **B.Tech in Computer Science Engineering** from Maharashtra
+- 🎓 Currently pursuing **B.Tech in Computer Science Engineering** 
 - 🔥 Learning **Advanced Java**, **Spring Core** & **Spring Boot**
 - 🌍 Curious about how **technology shapes global systems** — from internet infrastructure to geopolitics
 - 💼 Building practical projects to apply my knowledge
