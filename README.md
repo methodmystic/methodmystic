@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi 👋, I'm Pranav Shinde!
-
 ### 💻 2nd Year B.Tech Student | ☕ Aspiring Java Full Stack Developer | 💡 Passionate Learner
 
 </div>
@@ -21,6 +20,7 @@
 ## 🚀 Technologies & Tools
 
 ### 💻 Languages
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -31,13 +31,15 @@
 </p>
 
 ### ⚙️ Tools
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=github&logoColor=black" alt="GitHub" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
 
 ---
@@ -70,8 +72,6 @@
 </p>
 
 ---
-
-
 
 <div align="center">
 
