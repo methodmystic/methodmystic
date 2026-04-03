@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 Currently pursuing **B.Tech in Computer Science Engineering** 
-- 🔥 Learning **Advanced Java**, **Spring Core** & **Spring Boot**
+- 🔥 Learning **Spring Core** & **Spring Boot**
 - 🌍 Curious about how **technology shapes global systems** — from internet infrastructure to geopolitics
 - 💼 Building practical projects to apply my knowledge
 - ⚡ Fun fact: **I believe whoever controls the infrastructure, controls the world — and code is never just code** 🌐
