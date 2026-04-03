@@ -41,7 +41,9 @@
 ### ☁️ Cloud & Hosting
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 ---
+
 
 ## 🎯 Current Focus
 
