@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Pranav Shinde!
-### 💻 2nd Year B.Tech Student | ☕ Aspiring Java Full Stack Developer | 💡 Passionate Learner
+### 💻 2nd Year B.Tech Student | 💡 Passionate Learner
 
 </div>
 
