@@ -16,24 +16,25 @@
 - ⚡ Fun fact: **I believe whoever controls the infrastructure, controls the world — and code is never just code** 🌐
 
 ---
+
 ## ⚒️ Tech Stack
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache+Maven-8B0000?style=for-the-badge&logo=apachemaven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ+IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS+Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache+Tomcat-F0A500?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FF6D00?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![MYSQL](https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![APACHE MAVEN](https://img.shields.io/badge/APACHE%20MAVEN-C71A36?style=for-the-badge&logo=apachemaven&logoColor=ffffff)
+![INTELLIJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-1A1A2E?style=for-the-badge&logo=intellijidea&logoColor=ffffff)
+![VS CODE](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+![ECLIPSE](https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=ffffff)
+![FIGMA](https://img.shields.io/badge/FIGMA-A259FF?style=for-the-badge&logo=figma&logoColor=ffffff)
+![CANVA](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=ffffff)
+![APACHE TOMCAT](https://img.shields.io/badge/APACHE%20TOMCAT-F0A500?style=for-the-badge&logo=apachetomcat&logoColor=000000)
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![GITHUB](https://img.shields.io/badge/GITHUB-24292E?style=for-the-badge&logo=github&logoColor=ffffff)
+![FIREBASE](https://img.shields.io/badge/FIREBASE-FF6D00?style=for-the-badge&logo=firebase&logoColor=ffffff)
+![VERCEL](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)
 
 ---
 
